@@ -198,7 +198,6 @@ function randomColour() {
 }
 
 
-
 function randNames() {
 
     let firstName = names[randomGen(0, (names.length - 1))].firstName
